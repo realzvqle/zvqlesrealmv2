@@ -21,11 +21,7 @@ p {
 .header {
   position: relative;
   text-align: center;
-  background: linear-gradient(
-    60deg,
-    rgba(89, 88, 83, 8) 0%,
-    rgba(10, 72, 93, 1) 100%
-  );
+  background: linear-gradient(to bottom, #f32b60, #ff8f1f);
   color: black;
 }
 img {
@@ -175,11 +171,11 @@ text-align: center;
 }
 button{
  
-color: white; /* Text color */
+color: maroon; /* Text color */
  
-background-color: transparent; /* Remove background color */
+background-color: white; /* Remove background color */
  
-border: 2px solid #0099CC; /* Border thickness, line style, and color */
+border: black; /* Border thickness, line style, and color */
  
 border-radius: 5px; /* Adds curve to border corners */
  
